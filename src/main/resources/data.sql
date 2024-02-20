@@ -1,4 +1,4 @@
-insert into customer(id, name) values (1000, 'Marco');
+insert into customer(id, name) values (1000, 'Ravinder');
 insert into customer(id, name) values (1001, 'Luis');
 insert into customer(id, name) values (1002, 'Selene');
 
